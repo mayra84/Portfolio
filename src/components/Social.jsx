@@ -12,8 +12,8 @@ const SocialShare = [
   },
   { iconName: "dribbble", link: "https://dribbble.com/" },
   {
-    iconName: "tik-tok",
-    link: "https://www.tiktok.com/",
+    iconName: "linkedIn",
+    link: "https://www.linkedin.com/in/mayra-estrella/",
   },
 ];
 const Social = () => {
