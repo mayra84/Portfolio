@@ -23,14 +23,14 @@ const tabListContent = [
           "https://body-in-mind.netlify.app",
         delayAnimation: "100",
       },
-      {
-        img: "14",
-        title: "Soft Cream",
-        meta: "Photography",
-        portfolioLink:
-          "https://dribbble.com/shots/16529407-Deski-Saas-Software-React-Template",
-        delayAnimation: "200",
-      },
+      // {
+      //   img: "14",
+      //   title: "Soft Cream",
+      //   meta: "Photography",
+      //   portfolioLink:
+      //     "https://dribbble.com/shots/16529407-Deski-Saas-Software-React-Template",
+      //   delayAnimation: "200",
+      // },
       // {
       //   img: "22",
       //   title: "Shane Design",
